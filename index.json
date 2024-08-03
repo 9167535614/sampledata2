@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "category":"Groceries",
+    "image": "https://i.ibb.co/MsQTpYh/pexels-photo-264636.jpg" 
+  },
+  {
+    "id":2,
+   "category":"Furniture",
+   "image": "https://i.ibb.co/FsjSYB0/furniture1.jpg" 
+  },
+  {
+    "id":3,
+   "category":"Clothes",
+   "image": "https://i.ibb.co/z60Bcmj/clothes1.jpg"
+  },
+  {
+    "id":4,
+   "category":"Vehicles",
+   "image": "https://i.ibb.co/VY078S7/vehicles.jpg"
+  },
+  {
+    "id":5,
+   "category":"Electronics",
+   "image": "https://i.ibb.co/XJWkKt/electronics.jpg"
+  }
+]

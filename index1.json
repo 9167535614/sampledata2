@@ -1,0 +1,153 @@
+[
+
+{
+    "id":1,
+    "category_id":1,
+    "name":"Apple",
+    "image": "https://i.ibb.co/FKCJGBF/apple2.jpg"
+},
+{
+    "id":2,
+    "category_id":1,
+    "name":"Carrot",
+    "image": "https://i.ibb.co/GQL10SX/carrot1.jpg"
+},
+{
+    "id":3,
+    "category_id":1,
+    "name":"Cooker",
+    "image": "https://i.ibb.co/M6Djrvd/cooker3.jpg"
+},
+{
+    "id":4,
+    "category_id":1,
+    "name":"Glass",
+    "image": "https://i.ibb.co/vmbvkSs/glass8.jpg"
+},
+{
+    "id":5,
+    "category_id":1,
+    "name":"Photo Frame",
+    "image": "https://i.ibb.co/3zxL2NP/photo1.jpg"
+},
+{
+    "id":6,
+    "category_id":2,
+    "name":"Bed",
+    "image": "https://i.ibb.co/HVk73BR/bed.jpg"
+},
+{
+    "id":7,
+    "category_id":2,
+    "name":"Chair",
+    "image": "https://i.ibb.co/RytCNmG/chair.jpg"
+    
+},
+{
+    "id":8,
+    "category_id":2,
+    "name":"Dressing Table",
+    "image": "https://i.ibb.co/G2cJBG0/detable.jpg"
+},
+{
+    "id":9,
+    "category_id":2,
+    "name":"Table",
+    "image": "https://i.ibb.co/MBXgVrC/table2.jpg"
+},
+{
+    "id":10,
+    "category_id":2,
+    "name":"Door",
+    "image": "https://i.ibb.co/qJ6xRnV/door.jpg"
+},
+{
+    "id":11,
+    "category_id":3,
+    "name":"Shirt",
+    "image": "https://i.ibb.co/XjQDjyq/shirt1.jpg"
+},
+{
+    "id":12,
+    "category_id":3,
+    "name":"Trouser",
+    "image": "https://i.ibb.co/yQh1R2c/tr.jpg"
+},
+{
+    "id":13,
+    "category_id":3,
+    "name":"Girls Top",
+    "image": "https://i.ibb.co/RSszHDS/gt.jpg"
+},
+{
+    "id":14,
+    "category_id":3,
+    "name":"Jeans",
+    "image": "https://i.ibb.co/MNYTVcq/jea.jpg"
+},
+{
+    "id":15,
+    "category_id":3,
+    "name":"Jacket",
+    "image": "https://i.ibb.co/q52KRTX/jacket.jpg"
+},
+{
+    "id":16,
+    "category_id":4,
+    "name":"Toyota Fortuner",
+    "image": "https://i.ibb.co/Sfk6D8x/toy.jpg"
+},{
+    "id":17,
+    "category_id":4,
+    "name":"Audi",
+    "image": "https://i.ibb.co/w4bTRJ4/audi.jpg"
+},
+{
+    "id":18,
+    "category_id":4,
+    "name":"Maruti",
+    "image": "https://i.ibb.co/0fj4J66/mar.jpg"
+},
+{
+    "id":19,
+    "category_id":4,
+    "name":"BMW",
+    "image": "https://i.ibb.co/h9sGHt5/bmw.jpg"
+},
+{
+    "id":20,
+    "category_id":4,
+    "name":"Mercedes",
+    "image":"https://i.ibb.co/sCfckCT/mez.jpg"
+},
+{
+    "id":21,
+    "category_id":5,
+    "name":"Lamp",
+    "image": "https://i.ibb.co/7tRmGZm/lamp1.jpg"
+},
+{
+    "id":22,
+    "category_id":5,
+    "name":"Washing Machine",
+    "image":"https://i.ibb.co/7K620m2/wm.jpg"
+},
+{
+    "id":23,
+    "category_id":5,
+    "name":"TV",
+    "image": "https://i.ibb.co/R7XtyzS/tv.jpg"
+},
+{
+    "id":24,
+    "category_id":5,
+    "name":"Radio",
+    "image": "https://i.ibb.co/kmMrYq1/radio.jpg"
+},
+{
+    "id":25,
+    "category_id":5,
+    "name":"Wire",
+    "image": "https://i.ibb.co/nzgb3Pb/wire.jpg"
+}
+]
